@@ -15,21 +15,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-
+//just a github test
 public class MainActivity extends Activity {
-
-    String[] countries = new String[] {
-        "India",
-        "Pakistan",
-        "Sri Lanka",
-        "China",
-        "Bangladesh",
-        "Nepal",
-        "Afghanistan",
-        "North Korea",
-        "South Korea",
-        "Japan"
-    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
