@@ -16,6 +16,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 //just a github test
+//just a second github test
 public class MainActivity extends Activity {
 
     @Override
